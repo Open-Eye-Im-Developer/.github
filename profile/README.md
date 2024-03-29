@@ -30,9 +30,9 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-cloud
 
 <div align="center">
 
-|                                               모유경                                                |                                               문휘식                                                |                                                박종운                                                |                                               백윤서                                               |                                               안범                                                |
-| :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
-| [![모유경](https://avatars.githubusercontent.com/u/75975946?s=64&v=4)](https://github.com/yougyung) | [![문휘식](https://avatars.githubusercontent.com/u/101445377?s=64&v=4)](https://github.com/coggiee) | [![박종운](https://avatars.githubusercontent.com/u/86952779?s=64&v=4)](https://github.com/bel1c10ud) | [![백윤서](https://avatars.githubusercontent.com/u/73841260?s=64&v=4)](https://github.com/bgyoons) | [![안범](https://avatars.githubusercontent.com/u/114740795?s=64&v=4)](https://github.com/mibu119) |
+| <center>모유경</center> | <center>문휘식</center> | <center>박종운</center> | <center>백윤서</center> | <center>안범</center> |
+| --- | --- | --- | --- | --- |
+| <a href="https://github.com/yougyung"><img width="100px" src="https://github.com/yougyung.png" /></a> | <a href="https://github.com/coggiee"><img width="100px" src="https://github.com/coggiee.png" /></a> | <a href="https://github.com/bel1c10ud"><img width="100px" src="https://github.com/bel1c10ud.png" /></a> | <a href="https://github.com/bgyoons"><img width="100px" src="https://github.com/bgyoons.png" /></a> | <a href="https://github.com/mibu119"><img width="100px" src="https://github.com/mibu119.png" /></a> |
 
 </div>
 
@@ -40,9 +40,9 @@ https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file#-cloud
 
 <div align="center">
 
-|                                                김주환                                                |                                               이경민                                                |                                               홍지인                                               |
-| :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| [![김주환](https://avatars.githubusercontent.com/u/78072370?s=64&v=4)](https://github.com/happyjamy) | [![이경민](https://avatars.githubusercontent.com/u/85854384?s=96&v=4)](https://github.com/tidavid1) | [![홍지인](https://avatars.githubusercontent.com/u/57834671?s=64&v=4)](https://github.com/JIN-076) |
+| <center>김주환</center> | <center>이경민</center> | <center>홍지인</center> |
+| --- | --- | --- |
+| <a href="https://github.com/happyjamy"><img width="100px" src="https://github.com/happyjamy.png" /></a> | <a href="https://github.com/tidavid1"><img width="100px" src="https://github.com/tidavid1.png" /></a> | <a href="https://github.com/JIN-076"><img width="100px" src="https://github.com/JIN-076.png" /></a> |
 
 </div>
 
